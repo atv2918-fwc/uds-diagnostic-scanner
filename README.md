@@ -1,6 +1,6 @@
 # UDS Diagnostic Scanner 🔌
 
-A Python simulation of a **UDS (ISO 14229) diagnostic tester** interacting with an automotive ECU — modelled on real-world diagnostics work with Electric Power Steering and Display controllers at Mercedes-Benz.
+A Python simulation of a **UDS (ISO 14229) diagnostic tester** interacting with an automotive ECU — modelled on real-world diagnostics work with Electric Power Steering and Display controllers 
 
 ## Features
 
