@@ -50,9 +50,7 @@ Sample output:
     U0100-00 [MEDIUM] Lost Communication with ECM (STORED)
 ```
 
-## Background
 
-This project mirrors the kind of diagnostic tooling I built at **Mercedes-Benz R&D India** — where I developed and maintained software test modules for EPS, Display, and Sound System ECUs, managed full release lifecycles to plants in Germany and China, and resolved safety-critical issues through UDS-based root cause analysis.
 
 ## Standards Referenced
 
